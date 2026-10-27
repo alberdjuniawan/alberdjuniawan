@@ -1,1 +1,1 @@
-[![Hello Bird](https://beto.bccdev.id/readme.svg?t=1793127380)](https://beto.bccdev.id)
+[![Hello Bird](https://beto.bccdev.id/readme.svg?t=1793141399)](https://beto.bccdev.id)
